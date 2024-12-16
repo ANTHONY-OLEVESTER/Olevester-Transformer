@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: olevester_transform
+Version: 0.1.0
+Summary: A Python library for dimensional navigation and normalization
+Home-page: https://github.com/[your-username]/olevester_transform
+Author: Anthony Olevester
+Author-email: olevester.joram123@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+
+# Olevester Transform
+The Olevester Transform is a Python library for dimensional navigation, normalization, and stabilization. It provides tools to handle multidimensional fields and analyze contributions across dimensions.
+
+## Features
+- Normalize multidimensional fields.
+- Navigate dimensions with expansion and reduction.
+- Apply Fourier-based normalization for periodic systems.
+
+## Installation
+pip install olevester-transform
+
+## Usage
+```python
+from olevester_transform import OlevesterTransform
+```
+
+
+#### **`LICENSE`**
+Use a license like MIT:
+```text
+MIT License
+Copyright (c) 2024 Anthony Olevester
