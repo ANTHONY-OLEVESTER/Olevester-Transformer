@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Anthony Olevester",
     author_email="olevester.joram123@gmail.com",
-    url="https://github.com/ANTHONY-OLEVESTER/olevester_transform",
+    url="https://github.com/ANTHONY-OLEVESTER/Olevester-Transformer",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
